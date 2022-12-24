@@ -11,6 +11,8 @@ A description of a mini project made by me ie.  bluetooth speaker
 7. Wires
 
 ## [Live Demo](https://www.dropbox.com/s/agpjc7ummvwszph/IMG_2723.MOV?dl=0)
+##
+##
 
 <div align="center">
   
