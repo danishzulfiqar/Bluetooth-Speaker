@@ -12,7 +12,7 @@ A description of a mini project made by me ie.  bluetooth speaker
 
 ## [Live Demo](https://www.dropbox.com/s/agpjc7ummvwszph/IMG_2723.MOV?dl=0)
 
-<div style="width: 300px; height: 400px">
+<div style="width: 30%; height: 40%">
   
 ![a9r7i-rchb7](https://user-images.githubusercontent.com/102870087/209434748-31d33e6f-5783-4ab5-a330-09cf2a22f875.jpg)
   
