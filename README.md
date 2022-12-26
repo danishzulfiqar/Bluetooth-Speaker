@@ -1,7 +1,7 @@
 # Bluetooth-Speaker
 A description of a mini project made by me ie.  bluetooth speaker 
 
-## Requirements
+## Componenets
 1. Speaker 5W 8ohm (2x)
 2. 8403 Amplifier Module (1x)
 3. CA-6928 Bluetooth Module (1x)
